@@ -4,3 +4,10 @@
 /Users/Guest/Desktop/ScrabbleScore.Solution/ScrabbleScore/bin/Debug/netcoreapp1.1/ScrabbleScore.pdb
 /Users/Guest/Desktop/ScrabbleScore.Solution/ScrabbleScore/obj/Debug/netcoreapp1.1/ScrabbleScore.dll
 /Users/Guest/Desktop/ScrabbleScore.Solution/ScrabbleScore/obj/Debug/netcoreapp1.1/ScrabbleScore.pdb
+/Users/ya-tzucheng/Desktop/hello-world/Scrabble-Score/ScrabbleScore/bin/Debug/netcoreapp1.1/ScrabbleScore.deps.json
+/Users/ya-tzucheng/Desktop/hello-world/Scrabble-Score/ScrabbleScore/bin/Debug/netcoreapp1.1/ScrabbleScore.dll
+/Users/ya-tzucheng/Desktop/hello-world/Scrabble-Score/ScrabbleScore/bin/Debug/netcoreapp1.1/ScrabbleScore.pdb
+/Users/ya-tzucheng/Desktop/hello-world/Scrabble-Score/ScrabbleScore/obj/Debug/netcoreapp1.1/ScrabbleScore.csproj.CoreCompileInputs.cache
+/Users/ya-tzucheng/Desktop/hello-world/Scrabble-Score/ScrabbleScore/obj/Debug/netcoreapp1.1/ScrabbleScore.AssemblyInfo.cs
+/Users/ya-tzucheng/Desktop/hello-world/Scrabble-Score/ScrabbleScore/obj/Debug/netcoreapp1.1/ScrabbleScore.dll
+/Users/ya-tzucheng/Desktop/hello-world/Scrabble-Score/ScrabbleScore/obj/Debug/netcoreapp1.1/ScrabbleScore.pdb

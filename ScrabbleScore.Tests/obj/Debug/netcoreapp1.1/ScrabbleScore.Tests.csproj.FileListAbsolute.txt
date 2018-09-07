@@ -11,3 +11,17 @@
 /Users/Guest/Desktop/ScrabbleScore.Solution/ScrabbleScore.Tests/bin/Debug/netcoreapp1.1/ScrabbleScore.pdb
 /Users/Guest/Desktop/ScrabbleScore.Solution/ScrabbleScore.Tests/obj/Debug/netcoreapp1.1/ScrabbleScore.Tests.dll
 /Users/Guest/Desktop/ScrabbleScore.Solution/ScrabbleScore.Tests/obj/Debug/netcoreapp1.1/ScrabbleScore.Tests.pdb
+/Users/ya-tzucheng/Desktop/hello-world/Scrabble-Score/ScrabbleScore.Tests/bin/Debug/netcoreapp1.1/ScrabbleScore.Tests.deps.json
+/Users/ya-tzucheng/Desktop/hello-world/Scrabble-Score/ScrabbleScore.Tests/bin/Debug/netcoreapp1.1/ScrabbleScore.Tests.runtimeconfig.json
+/Users/ya-tzucheng/Desktop/hello-world/Scrabble-Score/ScrabbleScore.Tests/bin/Debug/netcoreapp1.1/ScrabbleScore.Tests.runtimeconfig.dev.json
+/Users/ya-tzucheng/Desktop/hello-world/Scrabble-Score/ScrabbleScore.Tests/obj/Debug/netcoreapp1.1/ScrabbleScore.Tests.csproj.CoreCompileInputs.cache
+/Users/ya-tzucheng/Desktop/hello-world/Scrabble-Score/ScrabbleScore.Tests/obj/Debug/netcoreapp1.1/ScrabbleScore.Tests.AssemblyInfo.cs
+/Users/ya-tzucheng/Desktop/hello-world/Scrabble-Score/ScrabbleScore.Tests/obj/Debug/netcoreapp1.1/ScrabbleScore.Tests.dll
+/Users/ya-tzucheng/Desktop/hello-world/Scrabble-Score/ScrabbleScore.Tests/obj/Debug/netcoreapp1.1/ScrabbleScore.Tests.pdb
+/Users/ya-tzucheng/Desktop/hello-world/Scrabble-Score/ScrabbleScore.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/ya-tzucheng/Desktop/hello-world/Scrabble-Score/ScrabbleScore.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/ya-tzucheng/Desktop/hello-world/Scrabble-Score/ScrabbleScore.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/ya-tzucheng/Desktop/hello-world/Scrabble-Score/ScrabbleScore.Tests/bin/Debug/netcoreapp1.1/ScrabbleScore.Tests.dll
+/Users/ya-tzucheng/Desktop/hello-world/Scrabble-Score/ScrabbleScore.Tests/bin/Debug/netcoreapp1.1/ScrabbleScore.Tests.pdb
+/Users/ya-tzucheng/Desktop/hello-world/Scrabble-Score/ScrabbleScore.Tests/bin/Debug/netcoreapp1.1/ScrabbleScore.dll
+/Users/ya-tzucheng/Desktop/hello-world/Scrabble-Score/ScrabbleScore.Tests/bin/Debug/netcoreapp1.1/ScrabbleScore.pdb
